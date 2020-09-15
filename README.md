@@ -5,6 +5,11 @@ My first Unity Priject.
 		You need to avoid obstacles on the way to finish. Obstacles are the different rectangles.
 		If you hit obstacle, the game wiil be over and you will start this level again.
 
+
+	Builds:
+		Windows
+
+
 ヽ(｡◕o◕｡)ﾉ Hope you engjoy and fun! ヽ(｡◕o◕｡)ﾉ
 
 
