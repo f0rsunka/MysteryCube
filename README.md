@@ -1,6 +1,9 @@
 My first Unity Priject.
 
-You need to avoid obstacles on the way to finish. Obstacles are the different rectangles. If you hit obstacle, game over and you will start this level again.
+
+	Rules:
+		You need to avoid obstacles on the way to finish. Obstacles are the different rectangles.
+		If you hit obstacle, game over and you will start this level again.
 
 ヽ(｡◕o◕｡)ﾉ Hope you engjoy and fun! ヽ(｡◕o◕｡)ﾉ
 
